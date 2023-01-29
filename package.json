@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node app.js",
-    "install": "npm install"
+    "start":"node app.js"
+    
   },
   "author": "",
   "license": "ISC",
